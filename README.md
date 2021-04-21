@@ -4,4 +4,4 @@
 
 # Description
 This plugin is used for Ventoy to boot OpenWrt img file.
-
+For more details please refer: [https://www.ventoy.net/en/doc_openwrt.html](https://www.ventoy.net/en/doc_openwrt.html)
